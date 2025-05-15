@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Niyor010</h1>
 <h3 align="center">A passionate fullstack developer</h3>
+<img align="right" alt="coding" width"400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjgyNXJsc3U4MmtvNWZkNjAzdXBwM3BhaXI1dzh2NTF0amd0azc5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niyor010&label=Profile%20views&color=0e75b6&style=flat" alt="niyor010" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niyor010" alt="niyor010" /></a> </p>
 
 - 🔭 I’m currently working on **portfolio website**
 
@@ -27,9 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niyor010&show_icons=true&locale=en" alt="niyor010" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niyor010&" alt="niyor010" /></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
